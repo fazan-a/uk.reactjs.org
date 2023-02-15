@@ -24,7 +24,7 @@
 | batching | групування |
 | bug | помилка, дефект |
 | bundler | бандлер |
-| callback | функція зворотнього виклику |
+| callback | функція зворотного виклику |
 | camelCase | *camelCase* |
 | child | дочірній |
 | child component | дочірній компонент |
